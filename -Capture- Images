@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import os
 
-IMG_SIZE=96
+IMG_SIZE=255
 
 # region of interest (ROI) coordinates
 top, right, bottom, left = 100, 150, 400, 450
